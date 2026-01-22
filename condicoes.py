@@ -1,3 +1,5 @@
+# Exemplo de uso de estruturas condicionais em Python
+
 resposta = input('Você vai estudar hoje? ').lower()
 
 if resposta == 'sim':
